@@ -1,0 +1,59 @@
+﻿@model Inventory.Models.Cliente
+
+@{
+    ViewData["Title"] = "Cliente";
+}
+
+<link rel="stylesheet" href="~/css/general.css" />
+
+<h2>Formulario de Registro Nuevo Cliente.</h2>
+<hr />
+
+<div class="container-fluid">
+
+
+    <div class="form-row">
+
+        <div class="col col-lg-3"></div>
+        <div class="col col-lg-8">
+
+            @using (Html.BeginForm("create", "Cliente", FormMethod.Post))
+            {
+
+                <table class="table">
+
+                    <tr>
+                        <td><label>Nombre</label></td>
+                        <td> @Html.TextBoxFor(m => m.nombre_cliente, new { @class = "form-control" })</td>
+                    </tr>
+
+
+
+                    <tr>
+                        <td><label>Apellido</label></td>
+                        <td> @Html.TextBoxFor(m => m.apellido, new { @class = "form-control" })</td>
+                    </tr>
+
+                    <tr>
+                        <td><label>Cedula</label></td>
+                        <td> @Html.TextBoxFor(m => m.cedula, new { @class = "form-control" })</td>
+                    </tr>
+                </table>
+
+                <hr />
+                <input type="submit" value="Registrar Cliente" class="btn btn-outlined btn-info" />
+            }
+
+
+
+            @if(@ViewBag.message != null){
+
+                <div>
+                    <p class="form-control message">@ViewBag.message</p>
+                </div>
+
+            }
+
+        </div>
+    </div>
+</div>

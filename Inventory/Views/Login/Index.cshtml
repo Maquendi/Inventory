@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<hr />
+<div class="container">
+    <section id="content">
+        <form action="/Login/Autenticar" method="post">
+            <h1>Iniciar sesión</h1>
+          
+            <div>
+                <label style="margin-right: 65%;">Usuario</label>
+                <input type="text" required="" id="user" name="username" />
+            </div>
+            <div>
+                <label style="margin-right: 58%;">Contraseña</label>
+                <input type="password" required="" id="password" name="password"/>
+            </div>
+            <div>
+                <input type="submit" value="Iniciar sesión" />
+                <a href="#">¿Contraseña olvidada?</a>
+                
+            </div>
+        </form><!-- form -->
+    </section><!-- content -->
+</div><!-- container -->

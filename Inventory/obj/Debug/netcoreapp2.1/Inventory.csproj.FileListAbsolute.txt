@@ -1,0 +1,76 @@
+C:\Users\usuario\Source\Repos\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.deps.json
+C:\Users\usuario\Source\Repos\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.runtimeconfig.json
+C:\Users\usuario\Source\Repos\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.runtimeconfig.dev.json
+C:\Users\usuario\Source\Repos\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.dll
+C:\Users\usuario\Source\Repos\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.pdb
+C:\Users\usuario\Source\Repos\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.Views.dll
+C:\Users\usuario\Source\Repos\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.Views.pdb
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.csprojAssemblyReference.cache
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorAssemblyInfo.cache
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorAssemblyInfo.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.AssemblyInfo.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.TagHelpers.input.cache
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.TagHelpers.output.cache
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorCoreGenerate.cache
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.Views.pdb
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.dll
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.pdb
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.csproj.CopyComplete
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Login\Register.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Login\Login.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Almacen\Index.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Compras\Index.g.cshtml.cs
+C:\Users\usuario\Source\Repos\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Ventas\Index.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.deps.json
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.runtimeconfig.json
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.runtimeconfig.dev.json
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.dll
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.pdb
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.Views.dll
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\bin\Debug\netcoreapp2.1\Inventory.Views.pdb
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorAssemblyInfo.cache
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorAssemblyInfo.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.AssemblyInfo.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.TagHelpers.input.cache
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.TagHelpers.output.cache
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorCoreGenerate.cache
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Almacen\Index.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Compras\Index.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Ventas\Index.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.RazorTargetAssemblyInfo.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.Views.pdb
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.dll
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.pdb
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Inventory.csproj.CopyComplete
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Cliente.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Registrar_continuar.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Maquendi\Desktop\ITLA\ITLA CLASES\Programacion III\Projs\Inventory\Inventory\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Registrar.g.cshtml.cs
